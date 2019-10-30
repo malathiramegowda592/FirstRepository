@@ -1,3 +1,7 @@
 test file new
 modify the program
+<<<<<<< HEAD
  added new line to use reset in git bash
+=======
+add new line to check the revert function
+>>>>>>> parent of ef8c028... revert "added new line to the text file"
