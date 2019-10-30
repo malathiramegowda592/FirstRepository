@@ -2,5 +2,4 @@ test file new
 modify the program
  added new line to use reset in git bash
 
------
 creating new branch firstBranch
