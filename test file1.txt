@@ -4,4 +4,7 @@ modify the program
 add new line to check the revert function
  revert "added new line to the text file"
  added new line to use reset in git bash
+
 git stash
+
+new
